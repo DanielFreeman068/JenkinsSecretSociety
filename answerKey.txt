@@ -1,19 +1,19 @@
 Answers: 
-Puzzle 1 - anEnvelope : Hint - It's something you might put a stamp on before sending it : URL - http://localhost:5000/
+Puzzle 1 - envelope : Hint - It's something you might put a stamp on before sending it : URL - http://localhost:5000/
 
-Puzzle 2 - aMatch : Hint - Before you can light anything else, you need to start with something small : URL - http://localhost:5000/anEnvelope
+Puzzle 2 - match : Hint - Before you can light anything else, you need to start with something small : URL - http://localhost:5000/envelope
 
-Puzzle 3 - aClock : Hint - It's something that helps you keep track of time : URL - http://localhost:5000/aMatch
+Puzzle 3 - clock : Hint - It's something that helps you keep track of time : URL - http://localhost:5000/match
 
-Puzzle 4 - aCandle : Hint - I melt away as time passes, often used to set the mood or give light : URL - http://localhost:5000/aClock
+Puzzle 4 - candle : Hint - I melt away as time passes, often used to set the mood or give light : URL - http://localhost:5000/clock
 
-Puzzle 5 - aGlove : Hint - It's something you wear to keep your hands warm or protected : URL - http://localhost:5000/aCandle
+Puzzle 5 - glove : Hint - It's something you wear to keep your hands warm or protected : URL - http://localhost:5000/candle
 
-Puzzle 6 - aCoin : Hint - It's something you might flip to make a decision : URL - http://localhost:5000/aGlove
+Puzzle 6 - coin : Hint - It's something you might flip to make a decision : URL - http://localhost:5000/glove
 
-Puzzle 7 - false : Hint - Sometimes numbers don't add up perfectly due to how they're stored in computers : URL - http://localhost:5000/aCoin
+Puzzle 7 - 24 : Hint - It combines the array elements in a specific way : URL - http://localhost:5000/coin
 
-Puzzle 8 - true : Hint - Think about how JavaScript handles different types when comparing values with loose equality : URL - http://localhost:5000/false
+Puzzle 8 - true : Hint - Think about how JavaScript handles different types when comparing values with loose equality : URL - http://localhost:5000/24
 
 Puzzle 9 - number : Hint - Even though it represents 'Not-a-Number', its type is still considered a standard data type in JavaScript : URL - http://localhost:5000/true
 

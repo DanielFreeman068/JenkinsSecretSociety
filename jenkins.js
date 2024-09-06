@@ -9,31 +9,31 @@ const server = http.createServer((req,res)=>{
             fs.readFile("./index.html",(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url === '/anEnvelope'){
+        } else if (req.url === '/envelope'){
             fs.readFile('./puzzle2.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/aMatch'){
+        } else if (req.url=== '/match'){
             fs.readFile('./puzzle3.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/aClock'){
+        } else if (req.url=== '/clock'){
             fs.readFile('./puzzle4.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/aCandle'){
+        } else if (req.url=== '/candle'){
             fs.readFile('./puzzle5.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/aGlove'){
+        } else if (req.url=== '/glove'){
             fs.readFile('./puzzle6.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/aCoin'){
+        } else if (req.url=== '/coin'){
             fs.readFile('./puzzle7.html',(error,data)=>{
                 res.end(data)
             })
-        } else if (req.url=== '/false'){
+        } else if (req.url=== '/24'){
             fs.readFile('./puzzle8.html',(error,data)=>{
                 res.end(data)
             })
